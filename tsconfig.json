@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "mat-row-actions": [
+        "dist/mat-row-actions"
+      ],
+      "mat-row-actions/*": [
+        "dist/mat-row-actions/*"
+      ]
+    }
   }
 }
